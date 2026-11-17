@@ -3,7 +3,8 @@ import { defineConfig } from 'vite';
 export default defineConfig({
   base: './',
   server: {
-    port: 5173,
+    host: true,
+    port: 4001,
     strictPort: true,
   },
   build: {

@@ -8,7 +8,7 @@
 
 ```bash
 npm install
-npm run dev      # http://localhost:5173
+npm run dev      # http://localhost:4001
 npm run build    # tsc --noEmit + vite build → dist/
 npm run preview  # статический предпросмотр собранной игры
 ```
